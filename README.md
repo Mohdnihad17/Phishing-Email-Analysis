@@ -1,6 +1,6 @@
-# Cyber Security Internship – Task 2: Phishing Email Analysis
 
-## Objective
+
+# Phishing Email Analysis
 
 The objective of this task is to analyze a suspicious email and identify key phishing indicators. This promotes awareness of common phishing tactics and enhances email threat detection skills.
 
